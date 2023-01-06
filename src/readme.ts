@@ -1,26 +1,8 @@
-
-import handlbars from 'handlebars'
-import { readFileSync } from "fs"
 import { getPsnGameData } from "./psn"
 import { getSteamGameData } from "./steam"
 
-handlbars.registerHelper('ifeq', function (this: any, a, b, options) {
-  if (a == b) { return options.fn(this); }
-  return options.inverse(this);
-});
-
-handlbars.registerHelper('ifnoteq', function (this: any, a, b, options) {
-  if (a != b) { return options.fn(this); }
-  return options.inverse(this);
-});
-
-const renderGamesHtml = handlbars.compile(readFileSync('./trophy-html.template.hbs', 'utf-8'), {
-  knownHelpers: {
-    ifEquals: true
-  }
-})
-
 async function generateRecentGameHtml () {
+  const { markdownTable } = await import('markdown-table')
   const gameData = await Promise.all([
     getPsnGameData(),
     getSteamGameData()
@@ -31,11 +13,20 @@ async function generateRecentGameHtml () {
       return new Date(a.lastPlayed) > new Date(b.lastPlayed) ? -1 : 1
     })
 
-  return renderGamesHtml({ games })
+  return markdownTable(
+    [
+      ['Game', 'Platform', 'Achievements', 'Last Played']
+    ]
+    .concat(games.map(game => {
+      return [game.name, game.platform, `${game.progress}%`, game.lastPlayed]
+    })),
+    {align: ['l', 'l', 'l', 'r']}
+  )
 }
 
 export default async function generateReadme () {
   const recentGamesHtml = await generateRecentGameHtml()
+
 
   return `
   # 🖖 Hi! I'm Evan.

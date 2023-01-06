@@ -1,4 +1,5 @@
-import generateReadme from './readme';
+import generateReadme from "./readme"
+
 
 async function main () {
   const readme = await generateReadme()
