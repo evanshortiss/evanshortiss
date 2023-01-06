@@ -12,10 +12,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
-    - uses: mikeal/publish-to-github-action@master
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH_NAME: 'main'
     - uses: actions/setup-node@v3
       with:
         node-version: '18'
@@ -24,8 +20,12 @@ jobs:
     - name: Compile TypeScript
       run: npm run build
     - name: Update README.md
-      run: npm run generate-readme > README.md
+      run: node src/index.js > README.md
       env:
         PSN_NPSSO_TOKEN: ${{ secrets.PSN_NPSSO_TOKEN }}
         STEAM_ID: ${{ secrets.STEAM_ID }}
         STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+    - uses: mikeal/publish-to-github-action@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH_NAME: 'main'
