@@ -1,0 +1,25 @@
+name: Update README
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Run at 6AM UTC, i.e 10PM Los Angeles (Pacific) timezone
+    - cron: '0 6 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+    - name: Install Dependencies
+      run: npm ci
+    - name: Update README.md
+      run: npm run generate-readme > README.md
+    - uses: mikeal/publish-to-github-action@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH_NAME: 'master'
