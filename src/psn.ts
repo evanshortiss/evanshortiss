@@ -22,7 +22,7 @@ export async function getPsnGameData (): Promise<GameDataForReadme[]> {
       platform: game.trophyTitlePlatform,
       name: game.trophyTitleName,
       progress: Math.round((earnedTrophies / totalTrophies) * 100),
-      lastPlayed: new Date(game.lastUpdatedDateTime).toLocaleDateString()
+      lastPlayed: new Date(game.lastUpdatedDateTime).getTime()
     }
   })
 }

@@ -7,5 +7,5 @@ export type GameDataForReadme = {
   platform: string,
   name: string,
   progress: number,
-  lastPlayed: string
+  lastPlayed: number
 }

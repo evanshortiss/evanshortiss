@@ -64,7 +64,7 @@ export async function getSteamGameData (): Promise<GameDataForReadme[]> {
       iconUrl: getImageUrlForAppId(game.appid),
       platform: 'PC',
       progress: Math.round((achievedCount / achievements.playerstats.achievements.length) * 100),
-      lastPlayed: new Date(game.rtime_last_played * 1000).toLocaleDateString()
+      lastPlayed: game.rtime_last_played * 1000
     }) 
   }
 

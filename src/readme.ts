@@ -18,10 +18,22 @@ async function generateRecentGameHtml () {
       ['Game', 'Platform', 'Achievements', 'Last Played']
     ]
     .concat(games.map(game => {
-      return [game.name, game.platform, `${game.progress}%`, game.lastPlayed]
+      return [game.name, game.platform, `${game.progress}%`, formatLastPlayed(game.lastPlayed)]
     })),
     {align: ['l', 'l', 'l', 'r']}
   )
+}
+
+function formatLastPlayed (datetime: number) {
+  const ONE_WEEK = 7 * 24 * 60 * 60 * 1000;
+  const now = Date.now()
+
+  if (now - datetime <= ONE_WEEK) {
+    return 'This week'
+  } else {
+    const date = new Date(datetime)
+    return `${date.getMonth() + 1}/${date.getFullYear()}`
+  }
 }
 
 export default async function generateReadme () {
