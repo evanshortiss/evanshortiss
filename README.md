@@ -9,16 +9,16 @@
 
   | Game                                    | Platform | Achievements | Last Played |
 | :-------------------------------------- | :------- | :----------- | ----------: |
-| Cyberpunk 2077                          | PC       | 16%          |    1/5/2023 |
-| CRISIS CORE –FINAL FANTASY VII– REUNION | PS5      | 43%          |    1/2/2023 |
-| EARTH DEFENSE FORCE: WORLD BROTHERS     | PC       | 4%           |    1/2/2023 |
-| PUBG: BATTLEGROUNDS                     | PC       | 86%          |    1/2/2023 |
-| Microsoft Flight Simulator              | PC       | 21%          |  12/20/2022 |
-| Portal with RTX                         | PC       | 0%           |  12/18/2022 |
-| Marvel's Spider-Man: Miles Morales      | PS5      | 52%          |  12/15/2022 |
-| Disco Elysium                           | PS5      | 20%          |   12/5/2022 |
-| METAL GEAR SOLID V: THE PHANTOM PAIN    | PS4      | 72%          |   11/6/2022 |
-| Uncharted: The Lost Legacy™             | PS4      | 36%          |   10/4/2022 |
+| Cyberpunk 2077                          | PC       | 16%          |   This week |
+| EARTH DEFENSE FORCE: WORLD BROTHERS     | PC       | 4%           |   This week |
+| PUBG: BATTLEGROUNDS                     | PC       | 86%          |   This week |
+| CRISIS CORE –FINAL FANTASY VII– REUNION | PS5      | 43%          |   This week |
+| Microsoft Flight Simulator              | PC       | 21%          |     12/2022 |
+| Portal with RTX                         | PC       | 0%           |     12/2022 |
+| Marvel's Spider-Man: Miles Morales      | PS5      | 52%          |     12/2022 |
+| Disco Elysium                           | PS5      | 20%          |     12/2022 |
+| METAL GEAR SOLID V: THE PHANTOM PAIN    | PS4      | 72%          |     11/2022 |
+| Uncharted: The Lost Legacy™             | PS4      | 36%          |     10/2022 |
 
-  ⏰ Last updated: 2023-01-06T21:22:59.451Z
+  ⏰ Last updated: 2023-01-07T06:06:35.212Z
   
