@@ -1,7 +1,9 @@
 
   # 🖖 Hi! I'm Evan.
 
-  I work as a Developer Advocate at Red Hat. I live in Los Angeles 🇺🇸, though I was born and raised in Ireland 🇮🇪. 
+  I work as a Developer Advocate at Red Hat. I live and work in Los Angeles 🇺🇸, but I was born and raised in Ireland 🇮🇪.
+  
+  Seems like everyone has a fancy README on their profile these days, doesn't it? Here's my take on the trend; a README that automatically updates at ~0600 UTC every day to provide you with some insight into things I'm up to.
 
   ### 🎮 What I'm Playing 
 
@@ -20,5 +22,5 @@
 | METAL GEAR SOLID V: THE PHANTOM PAIN    | PS4      | 72%          |     11/2022 |
 | Uncharted: The Lost Legacy™             | PS4      | 36%          |     10/2022 |
 
-  ⏰ Last updated: 2023-01-11T06:07:13.507Z
+  ⏰ Last updated: 2023-01-11T17:55:07.838Z
   
