@@ -9,7 +9,7 @@
 
   | Game                                    | Platform | Achievements | Last Played |
 | :-------------------------------------- | :------- | :----------- | ----------: |
-| CRISIS CORE –FINAL FANTASY VII– REUNION | PS5      | 45%          |   This week |
+| CRISIS CORE –FINAL FANTASY VII– REUNION | PS5      | 47%          |   This week |
 | Cyberpunk 2077                          | PC       | 16%          |   This week |
 | EARTH DEFENSE FORCE: WORLD BROTHERS     | PC       | 4%           |      1/2023 |
 | PUBG: BATTLEGROUNDS                     | PC       | 86%          |      1/2023 |
@@ -20,5 +20,5 @@
 | METAL GEAR SOLID V: THE PHANTOM PAIN    | PS4      | 72%          |     11/2022 |
 | Uncharted: The Lost Legacy™             | PS4      | 36%          |     10/2022 |
 
-  ⏰ Last updated: 2023-01-10T19:24:27.540Z
+  ⏰ Last updated: 2023-01-11T06:07:13.507Z
   
