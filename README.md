@@ -11,16 +11,16 @@
 
   | Game                                    | Platform | Achievements | Last Played |
 | :-------------------------------------- | :------- | :----------- | ----------: |
-| Cyberpunk 2077                          | PC       | 20%          |   This week |
+| Cyberpunk 2077                          | PC       | 25%          |   This week |
+| PUBG: BATTLEGROUNDS                     | PC       | 86%          |   This week |
 | Castle Crashers                         | PC       | 17%          |   This week |
 | CRISIS CORE –FINAL FANTASY VII– REUNION | PS5      | 47%          |   This week |
 | EARTH DEFENSE FORCE: WORLD BROTHERS     | PC       | 4%           |      1/2023 |
-| PUBG: BATTLEGROUNDS                     | PC       | 86%          |      1/2023 |
 | Microsoft Flight Simulator              | PC       | 21%          |     12/2022 |
 | Marvel's Spider-Man: Miles Morales      | PS5      | 52%          |     12/2022 |
 | Disco Elysium                           | PS5      | 20%          |     12/2022 |
 | METAL GEAR SOLID V: THE PHANTOM PAIN    | PS4      | 72%          |     11/2022 |
 | Uncharted: The Lost Legacy™             | PS4      | 36%          |     10/2022 |
 
-  ⏰ Last updated: 2023-01-15T06:06:43.575Z
+  ⏰ Last updated: 2023-01-16T06:07:36.609Z
   
