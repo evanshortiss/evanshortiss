@@ -11,7 +11,7 @@
 
   | Game                                    | Platform | Achievements | Last Played |
 | :-------------------------------------- | :------- | :----------- | ----------: |
-| Red Dead Redemption 2                   | PC       | 2%           |   This week |
+| Red Dead Redemption 2                   | PC       | 4%           |   This week |
 | Cyberpunk 2077                          | PC       | 34%          |   This week |
 | Microsoft Flight Simulator              | PC       | 21%          |   This week |
 | CRISIS CORE –FINAL FANTASY VII– REUNION | PS5      | 55%          |   This week |
@@ -22,5 +22,5 @@
 | METAL GEAR SOLID V: THE PHANTOM PAIN    | PS4      | 72%          |     11/2022 |
 | Uncharted: The Lost Legacy™             | PS4      | 36%          |     10/2022 |
 
-  ⏰ Last updated: 2023-01-23T06:06:53.075Z
+  ⏰ Last updated: 2023-01-24T06:06:52.835Z
   
