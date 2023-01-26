@@ -14,7 +14,7 @@
 | Red Dead Redemption 2                   | PC       | 4%           |   This week |
 | Cyberpunk 2077                          | PC       | 34%          |   This week |
 | Microsoft Flight Simulator              | PC       | 21%          |   This week |
-| CRISIS CORE –FINAL FANTASY VII– REUNION | PS5      | 55%          |   This week |
+| CRISIS CORE –FINAL FANTASY VII– REUNION | PS5      | 55%          |      1/2023 |
 | PUBG: BATTLEGROUNDS                     | PC       | 86%          |      1/2023 |
 | Castle Crashers                         | PC       | 17%          |      1/2023 |
 | Marvel's Spider-Man: Miles Morales      | PS5      | 52%          |     12/2022 |
@@ -22,5 +22,5 @@
 | METAL GEAR SOLID V: THE PHANTOM PAIN    | PS4      | 72%          |     11/2022 |
 | Uncharted: The Lost Legacy™             | PS4      | 36%          |     10/2022 |
 
-  ⏰ Last updated: 2023-01-25T06:06:55.382Z
+  ⏰ Last updated: 2023-01-26T06:06:51.621Z
   
