@@ -22,5 +22,5 @@
 | METAL GEAR SOLID V: THE PHANTOM PAIN    | PS4      | 72%          |     11/2022 |
 | Uncharted: The Lost Legacy™             | PS4      | 36%          |     10/2022 |
 
-  ⏰ Last updated: 2023-02-27T06:07:35.625Z
+  ⏰ Last updated: 2023-02-28T06:07:26.717Z
   
