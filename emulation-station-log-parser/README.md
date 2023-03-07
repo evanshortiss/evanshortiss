@@ -38,8 +38,6 @@ credentials!
 
 ### Podman/Docker
 
-
-
 ```bash
 podman run --rm \
 -v "$HOME/.emulationstation/:/var/lib/.emulationstation" \
