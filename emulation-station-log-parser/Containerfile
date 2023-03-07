@@ -1,0 +1,19 @@
+FROM node:18-alpine as build
+
+USER node
+WORKDIR /usr/src/app
+COPY --chown=node:node package*.json ./
+RUN npm ci
+COPY --chown=node:node tsconfig*.json ./
+COPY --chown=node:node src src
+RUN npm run build
+
+FROM node:18-alpine
+
+USER node
+WORKDIR /usr/src/app
+COPY --chown=node:node --from=build /usr/src/app/package*.json/ ./
+RUN npm ci --omit=dev
+COPY --chown=node:node --from=build /usr/src/app/dist/ dist/
+
+CMD [ "node", "dist/main.js" ]
