@@ -67,3 +67,7 @@ Next, edit add the following cron to your Pi (sudo crontab -e):
 # Run the emulation station upload cron at 5AM daily
 05 0 * * * /usr/local/bin/es-log-cron-uploader
 ```
+
+If the container image throws strange errors about "unreachable code" or
+similar, then you need to update `libseccomp2` or add
+`--security-opt seccomp:unconfined` to the `docker run` command.
