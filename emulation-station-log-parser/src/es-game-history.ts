@@ -2,7 +2,7 @@ import { readFileSync } from "fs"
 import log from 'barelog'
 import { DataIndexes, EmulationStationMonthString, GameHistory, MonthIndexesMap, Platform, PlatformMap } from "./types"
 
-export function getGameHistory (filepath: string): GameHistory {
+export function getGameHistory (filepath: string): GameHistory<Date> {
 
   log(`Reading EmulationStation logs from: ${filepath}`)
 
@@ -61,6 +61,6 @@ export function getGameHistory (filepath: string): GameHistory {
     result[`[${platform}] ${game}`] = date
 
     return result
-  }, {} as GameHistory)
+  }, {} as GameHistory<Date>)
 }
 

@@ -3,7 +3,7 @@ import { ApplicationConfig } from "./config";
 import { GameHistory } from "./types";
 import log from 'barelog'
 
-export async function updateGameHistory (config: ApplicationConfig, latestHistory: GameHistory ) {
+export async function updateGameHistory (config: ApplicationConfig, latestHistory: GameHistory<Date> ) {
   const { S3_BUCKET_NAME: Bucket, S3_FILE_NAME: Key, S3_REGION: region } = config
   
   const s3 = new S3Client({ region });
@@ -21,14 +21,14 @@ export async function updateGameHistory (config: ApplicationConfig, latestHistor
   }))
 }
 
-async function getExistingGameHistory (s3: S3Client, params: { Bucket: string, Key: string }): Promise<GameHistory> {
+async function getExistingGameHistory (s3: S3Client, params: { Bucket: string, Key: string }): Promise<GameHistory<string>> {
   try {
     const existingHistory = await s3.send(new GetObjectCommand(params))
     
     if (existingHistory.Body) {
       const data = await existingHistory.Body.transformToString()
   
-      return JSON.parse(data) as GameHistory
+      return JSON.parse(data) as GameHistory<string>
     } else {
       // If there's no existing history, just return an empty record
       return {}

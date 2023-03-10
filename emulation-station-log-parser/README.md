@@ -44,3 +44,7 @@ podman run --rm \
 -v "$HOME/.aws/credentials/:/home/node/.aws/credentials" \
 quay.io/evanshortiss/emulation-station-logs-to-s3
 ```
+
+### Cron Configuration
+
+TODO

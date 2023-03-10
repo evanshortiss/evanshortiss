@@ -55,8 +55,8 @@ export enum DataIndexes {
   GameStart = 8
 }
 
-type GameHistoryKey = `[${Platform}] ${string}`
+export type GameHistoryKey = `[${Platform}] ${string}`
 
-export type GameHistory = {
-  [key: GameHistoryKey]: Date
+export type GameHistory<DateType> = {
+  [key: GameHistoryKey]: DateType
 }

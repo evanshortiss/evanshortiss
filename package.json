@@ -7,15 +7,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc",
-    "generate-readme": "node src/index.js"
+    "generate-readme": "node -r dotenv/config src/index.js"
   },
   "keywords": [],
   "author": "Evan Shortiss",
   "license": "MIT",
   "dependencies": {
     "@aws-sdk/client-s3": "^3.282.0",
+    "@tsconfig/node18": "^1.0.1",
     "@types/handlebars": "~4.1.0",
     "@types/node": "~18.11.18",
+    "barelog": "^0.2.0",
     "dotenv": "~16.0.3",
     "env-var": "~7.3.0",
     "handlebars": "~4.7.7",
