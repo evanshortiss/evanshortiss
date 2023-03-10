@@ -39,12 +39,31 @@ credentials!
 ### Podman/Docker
 
 ```bash
-podman run --rm \
--v "$HOME/.emulationstation/:/var/lib/.emulationstation" \
--v "$HOME/.aws/credentials/:/home/node/.aws/credentials" \
+docker run --rm \
+-v "/home/pi/.emulationstation/:/var/lib/.emulationstation" \
+-v "/home/pi/.aws/credentials/:/home/node/.aws/credentials" \
 quay.io/evanshortiss/emulation-station-logs-to-s3
 ```
 
 ### Cron Configuration
 
-TODO
+1. Copy the *emulation-station-log-parser/es-log-cron-uploader.sh* to your Pi.
+1. Edit the *es-log-cron-uploader.sh* if necessary, to point to your AWS credentials location.
+1. Clone
+
+For example:
+
+```bash
+# Assuming you've already copied the file to a local directory
+vi es-log-cron-uploader.sh
+
+# Copy it to /usr/local/bin
+sudo es-log-cron-uploader.sh /usr/local/bin/es-log-cron-uploader
+```
+
+Next, edit add the following cron to your Pi (sudo crontab -e):
+
+```
+# Run the emulation station upload cron at 5AM daily
+05 0 * * * /usr/local/bin/es-log-cron-uploader
+```
