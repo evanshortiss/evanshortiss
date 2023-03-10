@@ -10,16 +10,24 @@ export async function getRetroGameHistory (): Promise<GameHistory<string>> {
 
   log(`Reading EmulationStation game history from file ${Key} S3 Bucket ${Bucket}`)
   
-  const s3GetResponse = await s3.send(new GetObjectCommand({
-    Bucket,
-    Key
-  }))
+  try {
+    const s3GetResponse = await s3.send(new GetObjectCommand({
+      Bucket,
+      Key
+    }))
 
-  const retroGameHistory = await s3GetResponse.Body?.transformToString()
+    const retroGameHistory = await s3GetResponse.Body?.transformToString()
+    
+    if (!retroGameHistory) {
+      return {}
+    } else {
+      return JSON.parse(retroGameHistory) as GameHistory<string>
+    }
+  } catch (e) {
+    log('Error fetching EmulationStation game history')
+    log(e)
 
-  if (!retroGameHistory) {
     return {}
-  } else {
-    return JSON.parse(retroGameHistory) as GameHistory<string>
   }
+
 }
