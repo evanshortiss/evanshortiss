@@ -1,19 +1,3 @@
-[2023-03-10T06:07:34.113Z] Reading EmulationStation game history from file game-history.json S3 Bucket emulation-station-records
-[2023-03-10T06:07:34.133Z] Error fetching EmulationStation game history
-[2023-03-10T06:07:34.133Z] CredentialsProviderError: Could not load credentials from any providers
-    at /home/runner/work/evanshortiss/evanshortiss/node_modules/@aws-sdk/credential-provider-node/dist-cjs/defaultProvider.js:13:11
-    at /home/runner/work/evanshortiss/evanshortiss/node_modules/@aws-sdk/property-provider/dist-cjs/chain.js:11:28
-    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
-    at async coalesceProvider (/home/runner/work/evanshortiss/evanshortiss/node_modules/@aws-sdk/property-provider/dist-cjs/memoize.js:14:24)
-    at async SignatureV4.credentialProvider (/home/runner/work/evanshortiss/evanshortiss/node_modules/@aws-sdk/property-provider/dist-cjs/memoize.js:33:24)
-    at async SignatureV4.signRequest (/home/runner/work/evanshortiss/evanshortiss/node_modules/@aws-sdk/signature-v4/dist-cjs/SignatureV4.js:87:29)
-    at async /home/runner/work/evanshortiss/evanshortiss/node_modules/@aws-sdk/middleware-signing/dist-cjs/middleware.js:16:18
-    at async /home/runner/work/evanshortiss/evanshortiss/node_modules/@aws-sdk/middleware-retry/dist-cjs/retryMiddleware.js:27:46
-    at async /home/runner/work/evanshortiss/evanshortiss/node_modules/@aws-sdk/middleware-flexible-checksums/dist-cjs/flexibleChecksumsMiddleware.js:58:20
-    at async /home/runner/work/evanshortiss/evanshortiss/node_modules/@aws-sdk/middleware-logger/dist-cjs/loggerMiddleware.js:5:22 {
-  tryNextLink: false,
-  '$metadata': { attempts: 1, totalRetryDelay: 0 }
-}
 
   # 🖖 Hi! I'm Evan.
 
@@ -47,5 +31,5 @@
 | :--- | :------- | :---------- |
   
 
-  ⏰ Last updated: 2023-03-10T06:07:34.135Z
+  ⏰ Last updated: 2023-03-10T06:25:44.634Z
   

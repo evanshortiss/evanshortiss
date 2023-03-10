@@ -1,10 +1,11 @@
+import { writeFileSync } from "fs"
 import generateReadme from "./readme"
 
 
 async function main () {
   const readme = await generateReadme()
 
-  console.log(readme)
+  writeFileSync('README.md', readme)
 }
 
 main()

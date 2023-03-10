@@ -20,7 +20,7 @@ jobs:
     - name: Compile TypeScript
       run: npm run build
     - name: Update README.md
-      run: node src/index.js > README.md
+      run: node src/index.js
       env:
         PSN_NPSSO_TOKEN: ${{ secrets.PSN_NPSSO_TOKEN }}
         STEAM_ID: ${{ secrets.STEAM_ID }}
