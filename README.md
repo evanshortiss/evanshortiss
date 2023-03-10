@@ -27,9 +27,17 @@
 
   These are the retro games that myself and my girlfriend have been playing. The data is scraped from my Raspberry Pi that's running RetroPie.
 
-  | Game | Platform | Last Played |
-| :--- | :------- | :---------- |
+  | Game                                  | Platform        | Last Played |
+| :------------------------------------ | :-------------- | :---------- |
+| Snatcher                              | Sega CD         | This week   |
+| Metal Gear Solid                      | PSX             | 2/2023      |
+| Oddworld - Abe's Oddysee              | PSX             | 2/2023      |
+| Harry Potter and the Sorcerer's Stone | PSX             | 2/2023      |
+| Sonic The Hedgehog 2.md               | Sega Mega Drive | 2/2023      |
+| Tekken 3                              | PSX             | 2/2023      |
+| Tomb Raider                           | PSX             | 2/2023      |
+| Tenchu - Stealth Assassins            | PSX             | 2/2023      |
   
 
-  ⏰ Last updated: 2023-03-10T07:52:49.327Z
+  ⏰ Last updated: 2023-03-10T07:56:11.682Z
   
