@@ -5,13 +5,7 @@ import log from 'barelog'
 
 export async function getRetroGameHistory (): Promise<GameHistory<string>> {
   const { S3_BUCKET_NAME: Bucket, S3_FILE_NAME: Key, S3_REGION: region } = getConfig(process.env)
-  
-  const credentials = process.env.AWS_ACCESS_KEY_ID && process.env.AWS_SECRET_ACCESS_KEY ? {
-    accessKeyId: process.env.AWS_ACCESS_KEY_ID,
-    secretAccessKey: process.env.AWS_SECRET_ACCESS_KEY
-  } : undefined
-
-  const s3 = new S3Client({ region, credentials });
+  const s3 = new S3Client({ region });
 
   log(`Reading EmulationStation game history from file ${Key} S3 Bucket ${Bucket}`)
   

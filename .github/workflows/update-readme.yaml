@@ -25,6 +25,8 @@ jobs:
         PSN_NPSSO_TOKEN: ${{ secrets.PSN_NPSSO_TOKEN }}
         STEAM_ID: ${{ secrets.STEAM_ID }}
         STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY:  ${{ secrets.AWS_SECRET_ACCESS_KEY }}
     - uses: mikeal/publish-to-github-action@master
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
