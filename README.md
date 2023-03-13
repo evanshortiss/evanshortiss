@@ -11,11 +11,11 @@
 
   | Game                                    | Platform | Achievements | Last Played |
 | :-------------------------------------- | :------- | :----------- | ----------: |
-| Red Dead Redemption 2                   | PC       | 8%           |      2/2023 |
+| PUBG: BATTLEGROUNDS                     | PC       | 86%          |   This week |
+| Red Dead Redemption 2                   | PC       | 10%          |   This week |
+| CRISIS CORE –FINAL FANTASY VII– REUNION | PS5      | 63%          |   This week |
 | Cyberpunk 2077                          | PC       | 34%          |      1/2023 |
 | Microsoft Flight Simulator              | PC       | 21%          |      1/2023 |
-| CRISIS CORE –FINAL FANTASY VII– REUNION | PS5      | 55%          |      1/2023 |
-| PUBG: BATTLEGROUNDS                     | PC       | 86%          |      1/2023 |
 | Castle Crashers                         | PC       | 17%          |      1/2023 |
 | Marvel's Spider-Man: Miles Morales      | PS5      | 52%          |     12/2022 |
 | Disco Elysium                           | PS5      | 20%          |     12/2022 |
@@ -29,7 +29,7 @@
 
   | Game                                  | Platform        | Last Played |
 | :------------------------------------ | :-------------- | :---------- |
-| Snatcher                              | Sega CD         | This week   |
+| Snatcher                              | Sega CD         | 3/2023      |
 | Metal Gear Solid                      | PSX             | 2/2023      |
 | Oddworld - Abe's Oddysee              | PSX             | 2/2023      |
 | Harry Potter and the Sorcerer's Stone | PSX             | 2/2023      |
@@ -39,5 +39,5 @@
 | Tenchu - Stealth Assassins            | PSX             | 2/2023      |
   
 
-  ⏰ Last updated: 2023-03-10T07:56:11.682Z
+  ⏰ Last updated: 2023-03-13T06:07:34.647Z
   
