@@ -6,6 +6,6 @@ export type GameDataForReadme = {
   iconUrl: string,
   platform: string,
   name: string,
-  progress: number,
+  progress: number|undefined,
   lastPlayed: number
 }

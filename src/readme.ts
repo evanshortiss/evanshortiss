@@ -20,7 +20,7 @@ async function generateRecentGameHtml () {
       ['Game', 'Platform', 'Achievements', 'Last Played']
     ]
     .concat(games.map(game => {
-      return [game.name, game.platform, `${game.progress}%`, formatLastPlayed(game.lastPlayed)]
+      return [game.name, game.platform, game.progress ? `${game.progress}%` : 'Unknown', formatLastPlayed(game.lastPlayed)]
     })),
     {align: ['l', 'l', 'l', 'r']}
   )
