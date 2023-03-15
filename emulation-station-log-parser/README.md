@@ -45,7 +45,7 @@ credentials!
 docker run --rm \
 -v "/home/pi/.emulationstation/:/var/lib/.emulationstation" \
 -v "/home/pi/.aws/credentials/:/home/node/.aws/credentials" \
-quay.io/evanshortiss/emulation-station-logs-to-s3
+evanshortiss/emulation-station-logs-to-s3
 ```
 
 ### Cron Configuration
