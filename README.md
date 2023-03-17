@@ -19,7 +19,7 @@
 | Microsoft Flight Simulator                        | PC       | 21%          |      1/2023 |
 | Castle Crashers                                   | PC       | 17%          |      1/2023 |
 | Marvel's Spider-Man: Miles Morales                | PS5      | 52%          |     12/2022 |
-| Disco Elysium - The Final Cut                     | PS5      | 20%          |     12/2022 |
+| Disco Elysium - The Final Cut                     | PS5      | 17%          |     12/2022 |
 | METAL GEAR SOLID V: THE PHANTOM PAIN              | PS4      | 72%          |     11/2022 |
 
   
@@ -39,5 +39,5 @@
 | Tenchu - Stealth Assassins            | PSX             | 2/2023      |
   
 
-  ⏰ Last updated: 2023-03-16T06:07:17.686Z
+  ⏰ Last updated: 2023-03-17T06:06:36.665Z
   
