@@ -12,9 +12,9 @@
   | Game                                              | Platform | Achievements | Last Played |
 | :------------------------------------------------ | :------- | :----------- | ----------: |
 | Rocket League®                                    | PS4      | 53%          |   This week |
-| PUBG: BATTLEGROUNDS                               | PC       | 86%          |   This week |
-| Red Dead Redemption 2                             | PC       | 10%          |   This week |
-| CRISIS CORE –FINAL FANTASY VII– REUNION　PS4 & PS5 | PS5      | 63%          |   This week |
+| PUBG: BATTLEGROUNDS                               | PC       | 86%          |      3/2023 |
+| Red Dead Redemption 2                             | PC       | 10%          |      3/2023 |
+| CRISIS CORE –FINAL FANTASY VII– REUNION　PS4 & PS5 | PS5      | 63%          |      3/2023 |
 | Cyberpunk 2077                                    | PC       | 34%          |      1/2023 |
 | Microsoft Flight Simulator                        | PC       | 21%          |      1/2023 |
 | Castle Crashers                                   | PC       | 17%          |      1/2023 |
@@ -29,15 +29,15 @@
 
   | Game                                  | Platform        | Last Played |
 | :------------------------------------ | :-------------- | :---------- |
+| Tomb Raider                           | PSX             | This week   |
+| Metal Gear Solid                      | PSX             | This week   |
+| Tekken 3                              | PSX             | This week   |
 | Snatcher                              | Sega CD         | 3/2023      |
-| Metal Gear Solid                      | PSX             | 2/2023      |
 | Oddworld - Abe's Oddysee              | PSX             | 2/2023      |
 | Harry Potter and the Sorcerer's Stone | PSX             | 2/2023      |
 | Sonic The Hedgehog 2.md               | Sega Mega Drive | 2/2023      |
-| Tekken 3                              | PSX             | 2/2023      |
-| Tomb Raider                           | PSX             | 2/2023      |
 | Tenchu - Stealth Assassins            | PSX             | 2/2023      |
   
 
-  ⏰ Last updated: 2023-03-18T06:06:43.362Z
+  ⏰ Last updated: 2023-03-20T06:07:38.931Z
   
