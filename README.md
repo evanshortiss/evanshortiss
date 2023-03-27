@@ -11,9 +11,9 @@
 
   | Game                                              | Platform | Achievements | Last Played |
 | :------------------------------------------------ | :------- | :----------- | ----------: |
-| Rocket League                                     | PC       | 28%          |   This week |
-| PUBG: BATTLEGROUNDS                               | PC       | 86%          |   This week |
 | Red Dead Redemption 2                             | PC       | 10%          |   This week |
+| PUBG: BATTLEGROUNDS                               | PC       | 86%          |   This week |
+| Rocket League                                     | PC       | 28%          |   This week |
 | Rocket League®                                    | PS4      | 53%          |      3/2023 |
 | CRISIS CORE –FINAL FANTASY VII– REUNION　PS4 & PS5 | PS5      | 63%          |      3/2023 |
 | Cyberpunk 2077                                    | PC       | 34%          |      1/2023 |
@@ -29,7 +29,7 @@
 
   | Game                                  | Platform        | Last Played |
 | :------------------------------------ | :-------------- | :---------- |
-| Tomb Raider                           | PSX             | This week   |
+| Tomb Raider                           | PSX             | 3/2023      |
 | Metal Gear Solid                      | PSX             | 3/2023      |
 | Tekken 3                              | PSX             | 3/2023      |
 | Snatcher                              | Sega CD         | 3/2023      |
@@ -39,5 +39,5 @@
 | Tenchu - Stealth Assassins            | PSX             | 2/2023      |
   
 
-  ⏰ Last updated: 2023-03-26T06:06:50.576Z
+  ⏰ Last updated: 2023-03-27T06:07:26.284Z
   
