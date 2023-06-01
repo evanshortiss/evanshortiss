@@ -11,13 +11,13 @@
 
   | Game                                              | Platform | Achievements | Last Played |
 | :------------------------------------------------ | :------- | :----------- | ----------: |
-| Rocket League®                                    | PS4      | 53%          |   This week |
+| The Witcher 3: Wild Hunt                          | PC       | 33%          |   This week |
+| Rocket League®                                    | PS4      | 56%          |   This week |
+| PUBG: BATTLEGROUNDS                               | PC       | 86%          |   This week |
 | Red Dead Redemption 2                             | PC       | 10%          |      3/2023 |
-| PUBG: BATTLEGROUNDS                               | PC       | 86%          |      3/2023 |
 | Rocket League                                     | PC       | 28%          |      3/2023 |
 | CRISIS CORE –FINAL FANTASY VII– REUNION　PS4 & PS5 | PS5      | 63%          |      3/2023 |
 | Cyberpunk 2077                                    | PC       | 34%          |      1/2023 |
-| Microsoft Flight Simulator                        | PC       | 21%          |      1/2023 |
 | Marvel's Spider-Man: Miles Morales                | PS5      | 52%          |     12/2022 |
 | Disco Elysium - The Final Cut                     | PS5      | 17%          |     12/2022 |
 | METAL GEAR SOLID V: THE PHANTOM PAIN              | PS4      | 72%          |     11/2022 |
@@ -39,5 +39,5 @@
 | Tenchu - Stealth Assassins            | PSX             | 2/2023      |
   
 
-  ⏰ Last updated: 2023-05-09T06:06:59.027Z
+  ⏰ Last updated: 2023-06-01T00:13:07.195Z
   
