@@ -11,9 +11,9 @@
 
   | Game                                              | Platform | Achievements | Last Played |
 | :------------------------------------------------ | :------- | :----------- | ----------: |
-| The Witcher 3: Wild Hunt                          | PC       | 33%          |   This week |
 | Rocket League®                                    | PS4      | 56%          |   This week |
 | PUBG: BATTLEGROUNDS                               | PC       | 86%          |   This week |
+| The Witcher 3: Wild Hunt                          | PC       | 33%          |   This week |
 | Red Dead Redemption 2                             | PC       | 10%          |      3/2023 |
 | Rocket League                                     | PC       | 28%          |      3/2023 |
 | CRISIS CORE –FINAL FANTASY VII– REUNION　PS4 & PS5 | PS5      | 63%          |      3/2023 |
@@ -39,5 +39,5 @@
 | Tenchu - Stealth Assassins            | PSX             | 2/2023      |
   
 
-  ⏰ Last updated: 2023-06-01T06:24:32.703Z
+  ⏰ Last updated: 2023-06-02T06:23:08.221Z
   
