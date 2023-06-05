@@ -11,8 +11,8 @@
 
   | Game                                              | Platform | Achievements | Last Played |
 | :------------------------------------------------ | :------- | :----------- | ----------: |
-| The Witcher 3: Wild Hunt                          | PC       | 33%          |   This week |
 | Rocket League®                                    | PS4      | 56%          |   This week |
+| The Witcher 3: Wild Hunt                          | PC       | 35%          |   This week |
 | PUBG: BATTLEGROUNDS                               | PC       | 86%          |   This week |
 | Red Dead Redemption 2                             | PC       | 10%          |      3/2023 |
 | Rocket League                                     | PC       | 28%          |      3/2023 |
@@ -39,5 +39,5 @@
 | Tenchu - Stealth Assassins            | PSX             | 2/2023      |
   
 
-  ⏰ Last updated: 2023-06-04T06:21:53.043Z
+  ⏰ Last updated: 2023-06-05T06:24:12.693Z
   
