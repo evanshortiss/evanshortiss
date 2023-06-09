@@ -13,7 +13,7 @@
 | :------------------------------------------------ | :------- | :----------- | ----------: |
 | Rocket League®                                    | PS4      | 56%          |   This week |
 | The Witcher 3: Wild Hunt                          | PC       | 35%          |   This week |
-| PUBG: BATTLEGROUNDS                               | PC       | 86%          |   This week |
+| PUBG: BATTLEGROUNDS                               | PC       | 86%          |      6/2023 |
 | Red Dead Redemption 2                             | PC       | 10%          |      3/2023 |
 | Rocket League                                     | PC       | 28%          |      3/2023 |
 | CRISIS CORE –FINAL FANTASY VII– REUNION　PS4 & PS5 | PS5      | 63%          |      3/2023 |
@@ -39,5 +39,5 @@
 | Tenchu - Stealth Assassins            | PSX             | 2/2023      |
   
 
-  ⏰ Last updated: 2023-06-08T06:23:52.604Z
+  ⏰ Last updated: 2023-06-09T06:24:07.277Z
   
