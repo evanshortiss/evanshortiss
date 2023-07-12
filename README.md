@@ -11,6 +11,7 @@
 
   | Game                                              | Platform | Achievements | Last Played |
 | :------------------------------------------------ | :------- | :----------- | ----------: |
+| Street Fighter 6                                  | PS5      | Unknown      |   This week |
 | Rocket League®                                    | PS4      | 57%          |   This week |
 | PUBG: BATTLEGROUNDS                               | PC       | 86%          |      6/2023 |
 | Rocket League                                     | PC       | 28%          |      6/2023 |
@@ -20,7 +21,6 @@
 | Cyberpunk 2077                                    | PC       | 34%          |      1/2023 |
 | Marvel's Spider-Man: Miles Morales                | PS5      | 52%          |     12/2022 |
 | Disco Elysium - The Final Cut                     | PS5      | 17%          |     12/2022 |
-| METAL GEAR SOLID V: THE PHANTOM PAIN              | PS4      | 72%          |     11/2022 |
 
   
   ### 👾 Retro Games We're Playing
@@ -39,5 +39,5 @@
 | Tenchu - Stealth Assassins            | PSX             | 2/2023      |
   
 
-  ⏰ Last updated: 2023-07-11T06:07:42.048Z
+  ⏰ Last updated: 2023-07-12T06:07:35.119Z
   
