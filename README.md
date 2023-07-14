@@ -11,6 +11,7 @@
 
   | Game                                              | Platform | Achievements | Last Played |
 | :------------------------------------------------ | :------- | :----------- | ----------: |
+| FINAL FANTASY XV                                  | PS4      | 13%          |   This week |
 | Street Fighter 6                                  | PS5      | Unknown      |   This week |
 | Rocket League®                                    | PS4      | 57%          |   This week |
 | PUBG: BATTLEGROUNDS                               | PC       | 86%          |      6/2023 |
@@ -20,7 +21,6 @@
 | CRISIS CORE –FINAL FANTASY VII– REUNION　PS4 & PS5 | PS5      | 63%          |      3/2023 |
 | Cyberpunk 2077                                    | PC       | 34%          |      1/2023 |
 | Marvel's Spider-Man: Miles Morales                | PS5      | 52%          |     12/2022 |
-| Disco Elysium - The Final Cut                     | PS5      | 17%          |     12/2022 |
 
   
   ### 👾 Retro Games We're Playing
@@ -39,5 +39,5 @@
 | Tenchu - Stealth Assassins            | PSX             | 2/2023      |
   
 
-  ⏰ Last updated: 2023-07-13T06:07:54.618Z
+  ⏰ Last updated: 2023-07-14T06:07:26.583Z
   
