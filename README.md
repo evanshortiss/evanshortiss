@@ -13,7 +13,7 @@
 | :------------------------------------------------ | :------- | :----------- | ----------: |
 | FINAL FANTASY XV                                  | PS4      | 15%          |   This week |
 | Street Fighter 6                                  | PS5      | Unknown      |   This week |
-| Rocket League®                                    | PS4      | 57%          |   This week |
+| Rocket League®                                    | PS4      | 57%          |      7/2023 |
 | PUBG: BATTLEGROUNDS                               | PC       | 86%          |      6/2023 |
 | Rocket League                                     | PC       | 28%          |      6/2023 |
 | The Witcher 3: Wild Hunt                          | PC       | 35%          |      6/2023 |
@@ -39,5 +39,5 @@
 | Tenchu - Stealth Assassins            | PSX             | 2/2023      |
   
 
-  ⏰ Last updated: 2023-07-15T06:06:50.029Z
+  ⏰ Last updated: 2023-07-16T06:06:53.386Z
   
