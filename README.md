@@ -11,7 +11,7 @@
 
   | Game                                              | Platform | Achievements | Last Played |
 | :------------------------------------------------ | :------- | :----------- | ----------: |
-| FINAL FANTASY XV                                  | PS4      | 16%          |   This week |
+| FINAL FANTASY XV                                  | PS4      | 20%          |   This week |
 | Rocket League®                                    | PS4      | 57%          |   This week |
 | Street Fighter 6                                  | PS5      | Unknown      |      7/2023 |
 | PUBG: BATTLEGROUNDS                               | PC       | 86%          |      6/2023 |
@@ -39,5 +39,5 @@
 | Tenchu - Stealth Assassins            | PSX             | 2/2023      |
   
 
-  ⏰ Last updated: 2023-07-19T06:07:21.053Z
+  ⏰ Last updated: 2023-07-20T06:07:16.036Z
   
