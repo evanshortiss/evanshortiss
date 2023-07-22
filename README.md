@@ -11,6 +11,7 @@
 
   | Game                                              | Platform | Achievements | Last Played |
 | :------------------------------------------------ | :------- | :----------- | ----------: |
+| Resident Evil™                                    | PS4      | 13%          |   This week |
 | Rocket League®                                    | PS4      | 57%          |   This week |
 | FINAL FANTASY XV                                  | PS4      | 20%          |   This week |
 | Street Fighter 6                                  | PS5      | Unknown      |      7/2023 |
@@ -20,7 +21,6 @@
 | Red Dead Redemption 2                             | PC       | 10%          |      3/2023 |
 | CRISIS CORE –FINAL FANTASY VII– REUNION　PS4 & PS5 | PS5      | 63%          |      3/2023 |
 | Cyberpunk 2077                                    | PC       | 34%          |      1/2023 |
-| Marvel's Spider-Man: Miles Morales                | PS5      | 52%          |     12/2022 |
 
   
   ### 👾 Retro Games We're Playing
@@ -39,5 +39,5 @@
 | Tenchu - Stealth Assassins            | PSX             | 2/2023      |
   
 
-  ⏰ Last updated: 2023-07-21T06:07:05.579Z
+  ⏰ Last updated: 2023-07-22T06:06:39.808Z
   
