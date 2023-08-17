@@ -13,7 +13,7 @@
 | :----------------------- | :------- | :----------- | ----------: |
 | PUBG: BATTLEGROUNDS      | PC       | 86%          |   This week |
 | FINAL FANTASY XV         | PS4      | 36%          |   This week |
-| Resident Evil 4          | PS5      | Unknown      |   This week |
+| Resident Evil 4          | PS5      | Unknown      |      8/2023 |
 | Rocket League®           | PS4      | 57%          |      8/2023 |
 | Resident Evil™           | PS4      | 13%          |      7/2023 |
 | Street Fighter 6         | PS5      | Unknown      |      7/2023 |
@@ -39,5 +39,5 @@
 | Tenchu - Stealth Assassins            | PSX             | 2/2023      |
   
 
-  ⏰ Last updated: 2023-08-16T06:06:44.038Z
+  ⏰ Last updated: 2023-08-17T06:06:40.914Z
   
