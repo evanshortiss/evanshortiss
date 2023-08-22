@@ -39,5 +39,5 @@
 | Tenchu - Stealth Assassins            | PSX             | 2/2023      |
   
 
-  ⏰ Last updated: 2023-08-21T06:07:24.868Z
+  ⏰ Last updated: 2023-08-22T06:06:48.975Z
   
