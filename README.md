@@ -12,7 +12,7 @@
   | Game                     | Platform | Achievements | Last Played |
 | :----------------------- | :------- | :----------- | ----------: |
 | Gran Turismo® 7          | PS5      | Unknown      |   This week |
-| Rocket League®           | PS4      | 57%          |   This week |
+| Rocket League®           | PS4      | 57%          |      9/2023 |
 | PUBG: BATTLEGROUNDS      | PC       | 86%          |      9/2023 |
 | DREDGE                   | PS5      | 3%           |      8/2023 |
 | FINAL FANTASY XV         | PS4      | 37%          |      8/2023 |
@@ -39,5 +39,5 @@
 | Tenchu - Stealth Assassins            | PSX             | 2/2023      |
   
 
-  ⏰ Last updated: 2023-09-11T06:07:11.471Z
+  ⏰ Last updated: 2023-09-12T06:06:35.976Z
   
