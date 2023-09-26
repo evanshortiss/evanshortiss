@@ -20,7 +20,7 @@
 | Rocket League            | PC       | 28%          |      6/2023 |
 | The Witcher 3: Wild Hunt | PC       | 35%          |      6/2023 |
 | Red Dead Redemption 2    | PC       | 10%          |      3/2023 |
-| Cyberpunk 2077           | PC       | 34%          |      1/2023 |
+| Cyberpunk 2077           | PC       | 26%          |      1/2023 |
 
   
   ### 👾 Retro Games We're Playing
@@ -39,5 +39,5 @@
 | Tenchu - Stealth Assassins            | PSX             | 2/2023      |
   
 
-  ⏰ Last updated: 2023-09-25T06:07:14.179Z
+  ⏰ Last updated: 2023-09-26T06:07:13.808Z
   
