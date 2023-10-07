@@ -11,12 +11,12 @@
 
   | Game                     | Platform | Achievements | Last Played |
 | :----------------------- | :------- | :----------- | ----------: |
+| SHADOW OF THE COLOSSUS™  | PS4      | Unknown      |   This week |
 | Rocket League®           | PS4      | 57%          |      9/2023 |
 | Gran Turismo® 7          | PS5      | Unknown      |      9/2023 |
 | PUBG: BATTLEGROUNDS      | PC       | 86%          |      9/2023 |
 | DREDGE                   | PS5      | 3%           |      8/2023 |
 | FINAL FANTASY XV         | PS4      | 37%          |      8/2023 |
-| Resident Evil 4          | PS5      | Unknown      |      8/2023 |
 | Rocket League            | PC       | 28%          |      6/2023 |
 | The Witcher 3: Wild Hunt | PC       | 35%          |      6/2023 |
 | Red Dead Redemption 2    | PC       | 10%          |      3/2023 |
@@ -39,5 +39,5 @@
 | Tenchu - Stealth Assassins            | PSX             | 2/2023      |
   
 
-  ⏰ Last updated: 2023-10-06T06:07:12.574Z
+  ⏰ Last updated: 2023-10-07T06:06:46.848Z
   
