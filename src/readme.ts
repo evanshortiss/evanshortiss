@@ -59,9 +59,9 @@ async function generateRecentRetroGameHtml () {
   )
 
   return `
-  ### 👾 Retro Games We're Playing
+  ### 👾 Retro Games Playing
 
-  These are the retro games that myself and my girlfriend have been playing. The data is scraped from my Raspberry Pi that's running RetroPie.
+  These are the retro games that I've been playing. The data is scraped from my Raspberry Pi that's running RetroPie.
 
   ${md}
   `
