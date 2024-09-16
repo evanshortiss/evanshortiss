@@ -1,7 +1,7 @@
 
   # 🖖 Hi! I'm Evan.
 
-  I work as a Developer Advocate at [Neon](https://neon.tech/). I live and work in Los Angeles 🇺🇸, but I was born and raised in Ireland 🇮🇪.
+  I work as in Technical Marketing at [Red Hat](https://redhat.com/). I live and work in Los Angeles 🇺🇸, but I was born and raised in Ireland 🇮🇪.
   
   Seems like everyone has a fancy README on their profile these days, doesn't it? Here's my take on the trend; a README that automatically updates at ~0600 UTC every day to provide you with some insight into things I'm up to.
 
@@ -25,7 +25,7 @@
   
   ### 👾 Retro Games We're Playing
 
-  These are the retro games that myself and my girlfriend have been playing. The data is scraped from my Raspberry Pi that's running RetroPie.
+  These are the retro games that I've been playing. The data is scraped from my Raspberry Pi that's running RetroPie.
 
   | Game                                  | Platform        | Last Played |
 | :------------------------------------ | :-------------- | :---------- |
