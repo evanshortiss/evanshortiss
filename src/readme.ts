@@ -86,7 +86,7 @@ export default async function generateReadme () {
   return `
   # 🖖 Hi! I'm Evan.
 
-  I work as a Developer Advocate at Red Hat. I live and work in Los Angeles 🇺🇸, but I was born and raised in Ireland 🇮🇪.
+  I work in Technical Marketing at [Red Hat](https://redhat.com/). I live and work in Los Angeles 🇺🇸, but I was born and raised in Ireland 🇮🇪.
   
   Seems like everyone has a fancy README on their profile these days, doesn't it? Here's my take on the trend; a README that automatically updates at ~0600 UTC every day to provide you with some insight into things I'm up to.
 
