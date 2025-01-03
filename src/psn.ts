@@ -1,23 +1,27 @@
 import env from "env-var";
-import { writeFileSync } from "fs";
+import log from 'barelog'
 import * as psn from 'psn-api'
 import { GameDataForReadme } from "./types";
 
 export async function getPsnGameData (): Promise<GameDataForReadme[]> {
   const PSN_NPSSO_TOKEN = env.get('PSN_NPSSO_TOKEN').required().asString()
 
+  log('Authenticating against PSN API')
   const accessCode = await psn.exchangeNpssoForCode(PSN_NPSSO_TOKEN)
   const authorization = await psn.exchangeCodeForAccessToken(accessCode)
 
+  log('Fetching recently played from PSN')
   const { data: { gameLibraryTitlesRetrieve: recentlyPlayedGames } } = await psn.getRecentlyPlayedGames(
     { accessToken: authorization.accessToken }
   )
 
+  log('Fetching trophies from PSN')
   const trophies = await psn.getUserTitles(
     { accessToken: authorization.accessToken },
     'me'
   )
 
+  log('Merging trophies and games from PSN')
   return recentlyPlayedGames.games
     // Some games are marked as UNKNOWN. It appears that these are games 
     // downloaded or played by another user on the same console

@@ -1,6 +1,7 @@
 import * as qs from 'node:querystring'
 import env from 'env-var'
 import { GameDataForReadme } from './types'
+import log from 'barelog'
 
 const STEAM_API_KEY = env.get('STEAM_API_KEY').required().asString()
 const STEAM_ID = env.get('STEAM_ID').required().asString()
@@ -34,6 +35,7 @@ function getImageUrlForAppId (appid: number) {
 }
 
 export async function getSteamGameData (): Promise<GameDataForReadme[]> {
+  log('Fetching games from Steam')
   const allOwnedGames = await fetchFromSteam<SteamPlayerOwnedGames>('/IPlayerService/GetOwnedGames/v1', {
     steamid: STEAM_ID,
   })
@@ -48,7 +50,7 @@ export async function getSteamGameData (): Promise<GameDataForReadme[]> {
 
   for (let i = 0; i < recentGames.length; i++) {
     const game = recentGames[i]
-
+    log(`Fetching achievements for game ${game.appid} from Steam`)
     const achievements = await fetchFromSteam<SteamGameAchievementsDetails>('/ISteamUserStats/GetPlayerAchievements/v1', {
       appid: game.appid,
       steamid: STEAM_ID

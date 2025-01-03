@@ -59,7 +59,7 @@ async function generateRecentRetroGameHtml () {
   )
 
   return `
-  ### 👾 Retro Games Playing
+  ### 👾 Retro Games I'm Playing
 
   These are the retro games that I've been playing. The data is scraped from my Raspberry Pi that's running RetroPie.
 
