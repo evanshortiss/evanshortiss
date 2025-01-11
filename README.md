@@ -12,7 +12,7 @@
   | Game                      | Platform | Achievements | Last Played |
 | :------------------------ | :------- | :----------- | ----------: |
 | Path of Exile 2 Beta      | PS5      | Unknown      |   This week |
-| Rocket League®            | PS4      | 57%          |     12/2024 |
+| Rocket League®            | PS4      | 57%          |   This week |
 | ASTRO BOT                 | PS5      | 32%          |     11/2024 |
 | HEAVY RAIN™               | PS4      | 56%          |     11/2024 |
 | FINAL FANTASY VII REBIRTH | PS5      | 64%          |     10/2024 |
@@ -39,5 +39,5 @@
 | Tenchu - Stealth Assassins            | PSX             | 2/2023      |
   
 
-  ⏰ Last updated: 2025-01-10T06:05:28.140Z
+  ⏰ Last updated: 2025-01-11T06:05:00.369Z
   
