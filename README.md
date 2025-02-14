@@ -15,7 +15,7 @@
 | FINAL FANTASY VII REBIRTH                   | PS5      | 64%          |   This week |
 | The Elder Scrolls V: Skyrim Special Edition | PS4      | 51%          |   This week |
 | Rocket League®                              | PS4      | 57%          |      1/2025 |
-| ASTRO BOT                                   | PS5      | 32%          |     11/2024 |
+| ASTRO BOT                                   | PS5      | 29%          |     11/2024 |
 | Rocket League                               | PC       | 30%          |      2/2024 |
 | The Witcher 3: Wild Hunt                    | PC       | 36%          |      1/2024 |
 | Apex Legends                                | PC       | 100%         |     10/2023 |
@@ -39,5 +39,5 @@
 | Tenchu - Stealth Assassins            | PSX             | 2/2023      |
   
 
-  ⏰ Last updated: 2025-02-13T06:05:29.437Z
+  ⏰ Last updated: 2025-02-14T06:05:26.325Z
   
