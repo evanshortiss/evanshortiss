@@ -11,8 +11,8 @@
 
   | Game                                        | Platform | Achievements | Last Played |
 | :------------------------------------------ | :------- | :----------- | ----------: |
-| PUBG: BATTLEGROUNDS                         | PC       | 86%          |   This week |
 | Path of Exile 2 Beta                        | PS5      | Unknown      |   This week |
+| PUBG: BATTLEGROUNDS                         | PC       | 86%          |   This week |
 | FINAL FANTASY VII REBIRTH                   | PS5      | 64%          |      2/2025 |
 | The Elder Scrolls V: Skyrim Special Edition | PS4      | 51%          |      2/2025 |
 | Rocket League®                              | PS4      | 57%          |      1/2025 |
@@ -39,5 +39,5 @@
 | Tenchu - Stealth Assassins            | PSX             | 2/2023      |
   
 
-  ⏰ Last updated: 2025-02-17T06:05:43.820Z
+  ⏰ Last updated: 2025-02-18T06:05:30.128Z
   
