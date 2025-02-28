@@ -11,9 +11,9 @@
 
   | Game                                        | Platform | Achievements | Last Played |
 | :------------------------------------------ | :------- | :----------- | ----------: |
+| Path of Exile 2 Beta                        | PS5      | Unknown      |   This week |
 | Rocket League®                              | PS4      | 57%          |   This week |
 | PUBG: BATTLEGROUNDS                         | PC       | 86%          |   This week |
-| Path of Exile 2 Beta                        | PS5      | Unknown      |   This week |
 | FINAL FANTASY VII REBIRTH                   | PS5      | 64%          |   This week |
 | The Elder Scrolls V: Skyrim Special Edition | PS4      | 51%          |      2/2025 |
 | ASTRO BOT                                   | PS5      | 29%          |     11/2024 |
@@ -39,5 +39,5 @@
 | Tenchu - Stealth Assassins            | PSX             | 2/2023      |
   
 
-  ⏰ Last updated: 2025-02-27T06:05:38.897Z
+  ⏰ Last updated: 2025-02-28T06:05:45.465Z
   
