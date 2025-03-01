@@ -14,7 +14,7 @@
 | Path of Exile 2 Beta                        | PS5      | Unknown      |   This week |
 | Rocket League®                              | PS4      | 57%          |   This week |
 | PUBG: BATTLEGROUNDS                         | PC       | 86%          |   This week |
-| FINAL FANTASY VII REBIRTH                   | PS5      | 64%          |   This week |
+| FINAL FANTASY VII REBIRTH                   | PS5      | 64%          |      2/2025 |
 | The Elder Scrolls V: Skyrim Special Edition | PS4      | 51%          |      2/2025 |
 | ASTRO BOT                                   | PS5      | 29%          |     11/2024 |
 | Rocket League                               | PC       | 30%          |      2/2024 |
@@ -39,5 +39,5 @@
 | Tenchu - Stealth Assassins            | PSX             | 2/2023      |
   
 
-  ⏰ Last updated: 2025-02-28T06:05:45.465Z
+  ⏰ Last updated: 2025-03-01T06:04:59.429Z
   
